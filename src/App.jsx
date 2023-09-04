@@ -38,7 +38,7 @@ const App = () => {
       </div>
     </div>
     <footer>
-    <a href='https://github.com/SPRHackz' title='Github'>&copy; SPR Hackz 2023</a>
+    <a href='https://github.com/SPRHackz' title='Github'>&copy; 2023 SPR Hackz </a>
 
     </footer>
     </>
